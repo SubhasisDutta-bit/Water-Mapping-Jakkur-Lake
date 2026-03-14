@@ -1,4 +1,4 @@
-# Jakkur Lake Water Mapping 🌊
+# Jakkur Lake Water Mapping 
 
 Monitoring and mapping of Jakkur Lake, Bangalore using 
 satellite imagery and GIS techniques.
