@@ -1,0 +1,18 @@
+# Large data files
+data/
+*.tif
+*.img
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+
+# outputs
+outputs/
+
+# QGIS temp files
+*.qgz~
+*.lock
+
+# Python cache
+__pycache__/
+*.pyc 
