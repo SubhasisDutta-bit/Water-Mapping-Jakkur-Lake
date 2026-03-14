@@ -1,6 +1,5 @@
 # Large data files
 data/
-*.tif
 *.img
 *.gpkg
 *.gpkg-shm
